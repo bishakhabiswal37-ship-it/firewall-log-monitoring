@@ -31,3 +31,15 @@ This project analyzes firewall logs using Python, SQLite, and Streamlit.
 
 ## Author
 Bishakha Biswal
+
+## Project Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## Suspicious IP Detection
+
+![Suspicious IP](images/suspicious_ip.png)
+
+## Traffic Analysis Graph
+
+![Graph](images/graph.png)
